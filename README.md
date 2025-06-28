@@ -1,7 +1,7 @@
 
 # Trabalho Final Paradígmas de L.P. (Uniguaçu)
 
-Este projeto foi desenvolvido como parte do Trabalho Prático 13 da disciplina de Paradigmas de Linguagens de Programação do curso de Engenharia de Software da Faculdade Uniguaçu.
+Este projeto foi desenvolvido como parte do Trabalho Prático Final da disciplina de Paradigmas de Linguagens de Programação do curso de Engenharia de Software da Faculdade Uniguaçu.
 
 
 ## 📚 Tema
