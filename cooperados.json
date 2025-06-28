@@ -1,0 +1,55 @@
+{
+  "cooperados": [
+    {
+      "matricula": "1000",
+      "nome_completo": "ERNESTO GALISTEU ROMANO",
+      "cpf": "123.456.789-00",
+      "data_nascimento": "1942-05-15",
+      "data_adesao": "2023-02-01",
+      "tipo_conta": "Conta Corrente",
+      "agencia": "Brasil Central",
+      "numero_conta": "012345-6",
+      "saldo": 485125.75,
+      "limite_credito": 600000.00,
+      "produtos_ativos": ["Cartão Débito", "Cartão Crédito", "Investimento Poupança"],
+      "senha": "123456", 
+      "email": "ernesto.galisteu@email.com",
+      "telefone": "(45) 99888-1122",
+      "status_conta": "Ativo"
+    },
+    {
+      "matricula": "2000",
+      "nome_completo": "MARIA OLIVIERA DOS SANTOS",
+      "cpf": "987.654.321-00",
+      "data_nascimento": "1985-11-23",
+      "data_adesao": "2024-04-10",
+      "tipo_conta": "Conta Poupança",
+      "agencia": "Samigado",
+      "numero_conta": "012346-7",
+      "saldo": 7230.00,
+      "limite_credito": 0.00,
+      "produtos_ativos": ["Poupança", "Seguro Vida"],
+      "senha": "123456", 
+      "email": "maria.oliveira@email.com",
+      "telefone": "(45) 99666-3344",
+      "status_conta": "Ativo"
+    },
+    {
+      "matricula": "3000",
+      "nome_completo": "CARLOS EDUARDO LIMA",
+      "cpf": "321.987.654-00",
+      "data_nascimento": "1998-09-12",
+      "data_adesao": "2025-01-20",
+      "tipo_conta": "Conta Corrente",
+      "agencia": "Unidade Iguaçu Norte",
+      "numero_conta": "012347-8",
+      "saldo": -150.00,
+      "limite_credito": 1000.00,
+      "produtos_ativos": ["Cartão Débito", "Cheque Especial"],
+      "senha": "123456", 
+      "email": "carlos.lima@email.com",
+      "telefone": "(45) 99555-7788",
+      "status_conta": "Bloqueado"
+    }
+  ]
+}
